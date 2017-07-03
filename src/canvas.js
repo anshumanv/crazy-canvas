@@ -17,7 +17,7 @@ window.addEventListener('load', function () {
 	let hue = 0;
 	let direction = true;
 
-	function draw(e){
+	function draw (e) {
 		if(!isDrawing) return; // stop the function from running when mouse is not kept clicked
 		//console.log(e);
 		ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;		// :O
