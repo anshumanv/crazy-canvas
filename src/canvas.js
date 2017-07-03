@@ -1,4 +1,4 @@
-window.addEventListener('load',function(){
+window.addEventListener('load', function () {
 	const canvas = document.querySelector('#draw');
 	const ctx = canvas.getContext('2d');
 
@@ -46,7 +46,7 @@ window.addEventListener('load',function(){
 		isDrawing = true;
 		[lastX, lastY] = [e.offsetX, e.offsetY];
 	});
-	
+
 	canvas.addEventListener('mouseup',() => isDrawing = false);
 	canvas.addEventListener('mouseout', () => isDrawing = false);
 
