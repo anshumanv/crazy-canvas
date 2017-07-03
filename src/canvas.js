@@ -20,7 +20,7 @@ window.addEventListener('load', function () {
 	function draw(e){
 		if(!isDrawing) return; // stop the function from running when mouse is not kept clicked
 		//console.log(e);
-		ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+		ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;		// :O
 		//ctx.lineWidth = hue;
 
 		ctx.beginPath();
