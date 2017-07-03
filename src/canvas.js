@@ -39,7 +39,6 @@ window.addEventListener('load',function(){
 		}
 		if(direction) ctx.lineWidth++;
 		else ctx.lineWidth--;
-
 	}
 
 	canvas.addEventListener('mousemove',draw);
@@ -47,6 +46,7 @@ window.addEventListener('load',function(){
 		isDrawing = true;
 		[lastX, lastY] = [e.offsetX, e.offsetY];
 	});
+	
 	canvas.addEventListener('mouseup',() => isDrawing = false);
 	canvas.addEventListener('mouseout', () => isDrawing = false);
 
