@@ -1,2 +1,2 @@
-# canvas
-Simple canvas playground
+# crazy canvas
+
