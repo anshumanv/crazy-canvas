@@ -8,6 +8,7 @@ Click and hover mouse around the screen :grinning:.
 ### Features
 * Colours changing with time.
 * Oscillating draw width.
+* Save your pattern by simply right clicking over the canvas.
 
 ### Todo
 * Add button to clear screen.
