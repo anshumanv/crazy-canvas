@@ -15,3 +15,4 @@ Click and hover mouse around the screen :grinning:.
 * Add other overlap effects.
 * Add a color palette (random colours could be annoying for some users).
 * Add other brush effects in a button group.
+* Add some default text on initial screen like *"Click to draw"*. 
