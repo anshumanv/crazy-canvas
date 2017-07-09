@@ -2,6 +2,8 @@
 
 Generate random patterns with random colors and draw width.
 
+Click and hover mouse around the screen and generate random crazy patterns.
+
 ### Features
 * Colours changing with time.
 * Oscillating draw width.
