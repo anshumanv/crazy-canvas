@@ -16,3 +16,6 @@ Click and hover mouse around the screen :grinning:.
 * Add a color palette (random colours could be annoying for some users).
 * Add other brush effects in a button group.
 * Add some default text on initial screen like *"Click to draw"*. 
+
+### License
+MIT © [Anshuman Verma](https://github.com/Anshuman-Verma)
