@@ -1,8 +1,9 @@
 # crazy-canvas
 
-Generate random patterns with random colors and draw width.
+A web-app to generate random patterns with random colors and draw width.
 
-Click and hover mouse around the screen and generate random crazy patterns.
+### Usage
+Click and hover mouse around the screen :grinning:.
 
 ### Features
 * Colours changing with time.
