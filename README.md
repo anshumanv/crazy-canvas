@@ -9,5 +9,5 @@ Generate random patterns with random colors and draw width.
 ### Todo
 * Add button to clear screen.
 * Add other overlap effects.
-* Add a color pallete (in case random colours are annoying).
+* Add a color palette (random colours could be annoying for some users).
 * Add other brush effects in a button group.
